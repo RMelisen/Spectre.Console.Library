@@ -7,6 +7,7 @@ namespace SpectreConsoleLibrary.Core
         public static void Run()
         {
             MainMenu.WelcomeUser();
+            MainMenu.ShowMainMenu();
         }
     }
 }
